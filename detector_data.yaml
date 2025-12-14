@@ -1,0 +1,8 @@
+# YOLO dataset config
+path: E:/DHKT/Nam3/Ki1/Machine Learning/Garbage Classification Project/Garbage Classification Code/data/detector_set
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: trash_object
